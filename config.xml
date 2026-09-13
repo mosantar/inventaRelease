@@ -1,0 +1,9 @@
+<configuration base="https://github.com/mosantar/inventaRelease">
+    <files>
+        <!-- Archivo principal de la app -->
+        <file path="inVenta.jar" size="12275" checksum="b2e627f1957b2dba6fcb4f2ca08f9197da4c086c455112babc63d246045a8765" />
+
+        <!-- Reportes -->
+        <file path="rep/inventarioGeneral.jasper" size="28672" checksum="b5c6e3d6452c79199151db32fa262d4723b8ec65a68b5d6632e3a40a072170f4" />
+    </files>
+</configuration>
